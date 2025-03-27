@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=FFull+stack+developer+from+Egypt+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+![](https://komarev.com/ghpvc/?username=yasmine0megahed&style=for-the-badge&color=dc143c&label=PROFILE+VIEWS)
 
 
 ### My Skills

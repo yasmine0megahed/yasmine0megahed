@@ -87,11 +87,4 @@
 
   <a align="center" href="https://github.com/yasmine0megahed"><img alt="Yasmine's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmine0megahed&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
 
-####
 
-
-###
-#### Profile Visitor
-<p align="center"><img src="https://profile-counter.glitch.me/yasmine0megahed/count.svg" alt="visitor badge" width="50%"></p>
-
-###

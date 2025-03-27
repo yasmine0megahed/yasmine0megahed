@@ -1,5 +1,12 @@
 ## Hi there 👋
+####
+![header](github-header-image.png)
 
+<picture>
+  <img alt="github-snake" src="profile-3d-contrib/profile-night-green.svg" />
+</picture>
+
+###
 <!--
 **yasmine0megahed/yasmine0megahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
